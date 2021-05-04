@@ -1,0 +1,10 @@
+Business card data:
+
+{
+  "n":"Imthiaz",
+  "c":"Soft. Dev, Google",
+  "p":"9840837482",
+  "e":"imthiaz@gmail.com"
+  "l":"imthiazh"
+  "a":"1600 Mountain View, CA 94043, United States"
+}
